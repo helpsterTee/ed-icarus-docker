@@ -16,13 +16,15 @@ This should theoretically work with windows, if you adapt to the correct Saved G
 
 ### Installation ###
 
+A "recent" version of docker and docker-compose is needed to build this.
+
 ```bash
 git clone https://github.com/helpsterTee/ed-icarus-docker
 cd ed-icarus-docker
 docker compose --profile icarus_service up --build
 ```
 
-You can now point your browser to ![http://localhost:3300](http://localhost:3300) to access the Icarus Terminal.
+You can now point your browser to `http://localhost:3300` to access the Icarus Terminal.
 
 After building the image, you can exit with `CTRL-C`. If you need to start the service later on again, use 
 
@@ -38,4 +40,4 @@ Original license by Icarus Terminal still applies, see it ![here](https://github
 
 For all files in this repository, see LICENSE file.
 
-Credits for Icarus Terminal goes to @iaincollins and their supporters. Thanks :)
+Credits for Icarus Terminal goes to ![@iaincollins](https://github.com/iaincollins) and their supporters. Thanks :)
