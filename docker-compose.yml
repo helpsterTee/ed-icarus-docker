@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  icarus_service:
+    ports:
+      - "3300:3300"
+    volumes:
+      - "${MOUNT_DIR}:${LOG_DIR}"
+    build:
+      ./services/icarus_service
+    image: icarus_service:1.1.1
+    environment:
+      - LOG_DIR
