@@ -34,6 +34,14 @@ or the respective container id, you may discover by
 
 `docker ps -a`
 
+### Issues ###
+
+Sadly, I can't support your local docker installation, so you should get that up running first, here are some great starter points: 
+
+![https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
+
+This docker compose setup shouldn't have much issues, but you can ask via GitHub issues. Be sure to include some logging that describes the problem.
+
 ### License and Credits ###
 
 Original license by Icarus Terminal still applies, see it ![here](https://github.com/iaincollins/icarus/blob/main/LICENSE)
