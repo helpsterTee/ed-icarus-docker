@@ -1,6 +1,6 @@
 # Docker Compose Icarus Terminal
 
-This service is a convenient way to deploy an instance of ![Icarus Terminal](https://github.com/iaincollins/icarus) webservice to use with a browser.
+This service is a convenient way to deploy an instance of [Icarus Terminal](https://github.com/iaincollins/icarus) webservice to use with a browser.
 
 Tested on Linux with Steam version of Elite Dangerous Odyssey.
 
@@ -40,14 +40,14 @@ or the respective container id, you may discover by
 
 Sadly, I can't support your local docker installation, so you should get that up running first, here are some great starter points: 
 
-![https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
+[https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
 
 This docker compose setup shouldn't have much issues, but you can ask via GitHub issues. Be sure to include some logging that describes the problem.
 
 ### License and Credits ###
 
-Original license by Icarus Terminal still applies, see it ![here](https://github.com/iaincollins/icarus/blob/main/LICENSE)
+Original license by Icarus Terminal still applies, see it [here](https://github.com/iaincollins/icarus/blob/main/LICENSE)
 
 For all files in this repository, see LICENSE file.
 
-Credits for Icarus Terminal goes to ![@iaincollins](https://github.com/iaincollins) and their supporters. Thanks :)
+Credits for Icarus Terminal goes to [@iaincollins](https://github.com/iaincollins) and their supporters. Thanks :)
