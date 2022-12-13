@@ -4,6 +4,8 @@ This service is a convenient way to deploy an instance of ![Icarus Terminal](htt
 
 Tested on Linux with Steam version of Elite Dangerous Odyssey.
 
+Note that this will **only** enable you to call the webservice with your browser, not the application itself. And this needs to be run on the same machine that is running Elite Dangerous.
+
 ## Introduction and Setup
 
 The container setup uses rootless-node base image.
